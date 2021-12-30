@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notas_MVVM</string>
+    <string name="txt_nome_app">Notas (MVVM)</string>
+    <string name="txt_adicionar">Adicionar</string>
+</resources>
