@@ -11,7 +11,7 @@
 - [x] Melhorar os trabalhos com testes unitários
 - [x] Melhorar a leitura e manutenção de seus projetos
 - [x] Criar projetos limpos e testáveis
-- [x] Uso completo da arquitectura MVVM
+- [x] Uso completo da arquitectura MVVM (Model-View-ViewModel)
 - [x] Uso do Architecture Components
 
 ### Tecnologias
